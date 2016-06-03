@@ -1,0 +1,2 @@
+export(getCoExpGeneofLncs,getTopDiseaseLncRNAs,getDiseaseInf)
+importFrom("utils", "data")
